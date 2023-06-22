@@ -9,7 +9,6 @@
 
 ###
 
-[[<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chawtechsolutions.com%2Fresources%2F&psig=AOvVaw2wGlnLvQ3c4qdTEbOqzsDv&ust=1687544487930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDE9Z-_1_8CFQAAAAAdAAAAABA8)]
 
 ###
 
