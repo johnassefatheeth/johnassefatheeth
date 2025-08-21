@@ -52,7 +52,7 @@
 ## Skills 🛠️
 
 ### Technical Skills
-![Skills Icons](https://skillicons.dev/icons?i=js,python,vue,next,nuxt,html,css,react,nodejs,mysql,git,three)
+![Skills Icons](https://skillicons.dev/icons?i=js,python,vue,next,nuxt,html,css,react,nodejs,mysql,git,three,tailwind)
 
 ---
 
