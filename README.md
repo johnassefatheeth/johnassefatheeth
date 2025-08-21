@@ -6,23 +6,15 @@
 
 ## 📊 My GitHub Stats
 
-<grid>
-<column>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)](https://github.com/johnassefatheeth)
-</column>
-<column>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnassefatheeth)](https://github.com/johnassefatheeth)
-</column>
-<column>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnassefatheeth&show_icons=true&theme=radical)](https://github.com/johnassefatheeth)
-</column>
-</grid>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnassefatheeth)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnassefatheeth&show_icons=true&theme=radical)
 
 ---
 
 ## 🌟 My Contributions
 
-[![GitHub Contribution Graph](https://github.com/users/johnassefatheeth/contributions)](https://github.com/johnassefatheeth)
+![GitHub Contribution Graph](https://github.com/users/johnassefatheeth/contributions)
 
 ---
 
@@ -63,7 +55,7 @@
 - Technologies used
 - [Link to project](link)
 
-[![Project 1 Preview](https://via.placeholder.com/400x200)](link)
+![Project 1 Preview](https://via.placeholder.com/400x200)
 
 ### [Project 2 Name]
 📊 Another brief description
@@ -71,20 +63,20 @@
 - Technologies used
 - [Link to project](link)
 
-[![Project 2 Preview](https://via.placeholder.com/400x200)](link)
+![Project 2 Preview](https://via.placeholder.com/400x200)
 
 ---
 
 ## Skills 🛠️
 
 ### Technical Skills
-(https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,aws)
+![Skills Icons](https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,aws)
 
 ---
 
 ## Get in Touch 📱
 
-[![Contact Card](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=your-contact-info)](link)
+![Contact Card](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=your-contact-info)
 
 - 📧 Email: johnassefaforbussines@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/john-assefa-20075b240/
@@ -104,4 +96,4 @@
 
 Thanks for stopping by my GitHub profile! If you have any questions or just want to chat, feel free to reach out. Let's build something amazing together! 🚀
 
-[![Animated Greeting](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Happy+coding!+🚀)](https://github.com/johnassefatheeth)
+![Animated Greeting](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Happy+coding!+🚀)
