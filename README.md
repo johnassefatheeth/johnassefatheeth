@@ -4,6 +4,13 @@
 
 ---
 
+## About Me 🧑💻
+
+👋 Hi! I'm John Assefa, a passionate Software Engineer with a focus on building innovative solutions and sharing knowledge with the community. I specialize in web development/AI and love to explore new technologies and frameworks.
+
+---
+
+
 ## 📊 My GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)
@@ -25,11 +32,6 @@
 
 ---
 
-## About Me 🧑💻
-
-👋 Hi! I'm John Assefa, a passionate Software Engineer with a focus on building innovative solutions and sharing knowledge with the community. I specialize in web development/AI and love to explore new technologies and frameworks.
-
----
 
 ## My Focus Areas 🎯
 
