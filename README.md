@@ -7,37 +7,32 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-        
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');        
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Poppins', sans-serif;
         }
-        
-        body {
+                body {
             background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
             color: #fff;
             min-height: 100vh;
             overflow-x: hidden;
             padding: 20px;
-        }
-        
+        }        
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-        }
-        
+        }        
         /* Header Section */
         .header {
             text-align: center;
             padding: 40px 20px;
             position: relative;
             overflow: hidden;
-        }
-        
+        }        
         .header::before {
             content: '';
             position: absolute;
@@ -49,20 +44,17 @@
             transform: rotate(30deg);
             z-index: -1;
             animation: shine 8s infinite linear;
-        }
-        
+        }        
         @keyframes shine {
             0% { transform: rotate(30deg) translateX(-100%); }
             100% { transform: rotate(30deg) translateX(100%); }
         }
-        
-        .profile-container {
+                .profile-container {
             display: flex;
             flex-direction: column;
             align-items: center;
             margin-bottom: 30px;
         }
-        
         .profile-img {
             width: 180px;
             height: 180px;
@@ -72,13 +64,11 @@
             box-shadow: 0 0 30px rgba(0, 255, 255, 0.5);
             animation: float 6s ease-in-out infinite;
         }
-        
-        @keyframes float {
+                @keyframes float {
             0% { transform: translateY(0px); }
             50% { transform: translateY(-20px); }
             100% { transform: translateY(0px); }
-        }
-        
+        }        
         h1 {
             font-size: 3.5rem;
             margin: 20px 0 10px;
@@ -86,39 +76,33 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             animation: glow 2s ease-in-out infinite alternate;
-        }
-        
+        }        
         @keyframes glow {
             from { text-shadow: 0 0 10px #00ccff, 0 0 20px #00ccff; }
             to { text-shadow: 0 0 20px #00ff99, 0 0 30px #00ff99; }
-        }
-        
+        }        
         h2 {
             font-size: 1.8rem;
             margin-bottom: 20px;
             color: #cccccc;
-        }
-        
+        }        
         .tagline {
             font-size: 1.2rem;
             max-width: 600px;
             margin: 0 auto 30px;
             color: #aaaaaa;
-        }
-        
+        }        
         /* Stats Section */
         .stats-section {
             padding: 40px 0;
             text-align: center;
-        }
-        
+        }        
         .section-title {
             font-size: 2.5rem;
             margin-bottom: 40px;
             position: relative;
             display: inline-block;
-        }
-        
+        }        
         .section-title::after {
             content: '';
             position: absolute;
@@ -129,15 +113,13 @@
             height: 4px;
             background: linear-gradient(90deg, #00ccff, #00ff99);
             border-radius: 2px;
-        }
-        
+        }        
         .stats-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 25px;
             margin-bottom: 50px;
-        }
-        
+        }        
         .stat-card {
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
@@ -148,18 +130,15 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             animation: fadeIn 1s ease-out;
         }
-        
-        .stat-card:hover {
+                .stat-card:hover {
             transform: translateY(-10px);
             box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
-        }
-        
+        }        
         .stat-icon {
             font-size: 2.5rem;
             margin-bottom: 15px;
             color: #00ff99;
-        }
-        
+        }        
         .stat-number {
             font-size: 2.8rem;
             font-weight: 700;
@@ -167,21 +146,18 @@
             background: linear-gradient(45deg, #00ccff, #00ff99);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-        }
-        
+        }        
         .stat-label {
             font-size: 1.1rem;
             color: #cccccc;
-        }
-        
+        }        
         /* Charts Section */
         .charts-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 30px;
             margin-top: 40px;
-        }
-        
+        }        
         .chart-card {
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
@@ -189,26 +165,22 @@
             padding: 25px;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
             border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
+        }        
         .chart-title {
             text-align: center;
             margin-bottom: 20px;
             font-size: 1.4rem;
             color: #00ff99;
         }
-        
-        /* Skills Section */
+                /* Skills Section */
         .skills-section {
             padding: 60px 0;
-        }
-        
+        }        
         .skills-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 20px;
-        }
-        
+        }        
         .skill-item {
             background: rgba(255, 255, 255, 0.1);
             backdrop-filter: blur(10px);
@@ -217,38 +189,32 @@
             text-align: center;
             transition: transform 0.3s ease;
             animation: fadeIn 1s ease-out;
-        }
-        
+        }        
         .skill-item:hover {
             transform: scale(1.05);
-        }
-        
+        }        
         .skill-icon {
             font-size: 2.5rem;
             margin-bottom: 15px;
             color: #00ccff;
-        }
-        
+        }        
         .skill-name {
             font-size: 1.2rem;
             margin-bottom: 10px;
-        }
-        
+        }        
         /* Footer */
         .footer {
             text-align: center;
             padding: 40px 0;
             margin-top: 40px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
+        }        
         .social-links {
             display: flex;
             justify-content: center;
             gap: 20px;
             margin-bottom: 20px;
-        }
-        
+        }        
         .social-link {
             width: 50px;
             height: 50px;
@@ -261,31 +227,26 @@
             font-size: 1.5rem;
             text-decoration: none;
             transition: transform 0.3s ease;
-        }
-        
+        }        
         .social-link:hover {
             transform: scale(1.1) rotate(10deg);
-        }
-        
+        }        
         .copyright {
             color: #aaaaaa;
             font-size: 1rem;
-        }
-        
+        }        
         /* Animations */
         @keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
-        }
-        
+        }        
         /* Loading State */
         .loading {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 200px;
-        }
-        
+        }        
         .spinner {
             width: 50px;
             height: 50px;
@@ -293,26 +254,21 @@
             border-radius: 50%;
             border-top-color: #00ff99;
             animation: spin 1s ease-in-out infinite;
-        }
-        
+        }        
         @keyframes spin {
             to { transform: rotate(360deg); }
-        }
-        
+        }        
         /* Responsive Design */
         @media (max-width: 768px) {
             h1 {
                 font-size: 2.5rem;
-            }
-            
+            }            
             h2 {
                 font-size: 1.5rem;
-            }
-            
+            }            
             .stats-grid {
                 grid-template-columns: 1fr;
-            }
-            
+            }            
             .charts-container {
                 grid-template-columns: 1fr;
             }
@@ -415,7 +371,7 @@
     </div>
     <script>
         // GitHub username - replace with your own
-        const GITHUB_USERNAME = 'johnassefatheeht'; // Change this to your GitHub username        
+        const GITHUB_USERNAME = 'johnassefatheeth'; // Change this to your GitHub username        
         // DOM Elements
         const profileImg = document.getElementById('profile-img');
         const profileName = document.getElementById('profile-name');
