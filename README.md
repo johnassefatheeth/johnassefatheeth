@@ -85,7 +85,7 @@
 
 ## Contributions 🌟
 
-[![GitHub Contribution Graph](https://github-contributions.herokuapp.com/!johnassefatheeth)](https://github.com/johnassefatheeth)
+[![GitHub Contribution Graph](https://github-contributions.herokuapp.com/johnassefatheeth)](https://github.com/johnassefatheeth)
 
 ---
 
