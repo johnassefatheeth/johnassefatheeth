@@ -47,30 +47,12 @@
 
 ---
 
-## My Projects 🚀
-
-### [Project 1 Name]
-📱 A brief description of your project
-- Key features
-- Technologies used
-- [Link to project](link)
-
-![Project 1 Preview](https://via.placeholder.com/400x200)
-
-### [Project 2 Name]
-📊 Another brief description
-- Key features
-- Technologies used
-- [Link to project](link)
-
-![Project 2 Preview](https://via.placeholder.com/400x200)
-
 ---
 
 ## Skills 🛠️
 
 ### Technical Skills
-![Skills Icons](https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,aws)
+![Skills Icons](https://skillicons.dev/icons?i=js,python,vue,next,nuxt,html,css,react,nodejs,mysql,git,three)
 
 ---
 
