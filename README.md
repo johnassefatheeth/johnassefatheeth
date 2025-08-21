@@ -56,9 +56,9 @@
 
 ---
 
-## Get in Touch 📱
+## Visit My Site 📱
 
-![Contact Card](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=your-contact-info)
+![Contact Card](https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://johnassefa.netlify.app/)
 
 - 📧 Email: johnassefaforbussines@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/john-assefa-20075b240/
