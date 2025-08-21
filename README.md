@@ -75,17 +75,17 @@
 
 ## Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://github.com/johnassefatheeth)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)](https://github.com/johnassefatheeth)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/johnassefatheeth)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnassefatheeth)](https://github.com/johnassefatheeth)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/johnassefatheeth)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnassefatheeth&show_icons=true&theme=radical)](https://github.com/johnassefatheeth)
 
 ---
 
 ## Contributions 🌟
 
-[![GitHub Contribution Graph](https://github-contributions.herokuapp.com/!yourusername)](https://github.com/johnassefatheeth)
+[![GitHub Contribution Graph](https://github-contributions.herokuapp.com/!johnassefatheeth)](https://github.com/johnassefatheeth)
 
 ---
 
