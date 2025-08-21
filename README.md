@@ -1,6 +1,35 @@
 # Hi, I'm John 🚀
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Passionate+Developer+&&+Open+Source+Enthusiast+&&+AI+ML+Enthusiast)](https://github.com/yourusername)
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Passionate+Developer+&&+Open+Source+Enthusiast+&&+AI+ML+Enthusiast)](https://github.com/johnassefatheeth)
+
+---
+
+## 📊 My GitHub Stats
+
+<grid>
+<column>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)](https://github.com/johnassefatheeth)
+</column>
+<column>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnassefatheeth)](https://github.com/johnassefatheeth)
+</column>
+<column>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnassefatheeth&show_icons=true&theme=radical)](https://github.com/johnassefatheeth)
+</column>
+</grid>
+
+---
+
+## 🌟 My Contributions
+
+[![GitHub Contribution Graph](https://github.com/users/johnassefatheeth/contributions)](https://github.com/johnassefatheeth)
+
+---
+
+## 🏆 Badges
+
+[![Badge 1](https://img.shields.io/badge/Badge1-Label1-Informational)](link)
+[![Badge 2](https://img.shields.io/badge/Badge2-Label2-Informational)](link)
 
 ---
 
@@ -51,8 +80,6 @@
 ### Technical Skills
 (https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,aws)
 
-
-
 ---
 
 ## Get in Touch 📱
@@ -73,31 +100,8 @@
 
 ---
 
-## Stats 📊
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnassefatheeth)](https://github.com/johnassefatheeth)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnassefatheeth)](https://github.com/johnassefatheeth)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnassefatheeth&show_icons=true&theme=radical)](https://github.com/johnassefatheeth)
-
----
-
-## Contributions 🌟
-
-[![GitHub Contribution Graph](https://github.com/users/{johnassefatheeth}/contributions)](https://github.com/johnassefatheeth)
-
----
-
-## Badges 🏆
-
-[![Badge 1](https://img.shields.io/badge/Badge1-Label1-Informational)](link)
-[![Badge 2](https://img.shields.io/badge/Badge2-Label2-Informational)](link)
-
----
-
 ## Thanks for Visiting! 🙏
 
 Thanks for stopping by my GitHub profile! If you have any questions or just want to chat, feel free to reach out. Let's build something amazing together! 🚀
 
-[![Animated Greeting](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Happy+coding!+🚀)](https://github.com/yourusername)
+[![Animated Greeting](https://readme-typing-svg.herokuapp.com?color=FF6B6B&lines=Happy+coding!+🚀)](https://github.com/johnassefatheeth)
